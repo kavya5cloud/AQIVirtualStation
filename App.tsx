@@ -113,8 +113,8 @@ export default function App() {
 
       {/* Footer */}
       <footer className="py-12 text-center text-indigo-400/60 text-sm font-medium relative z-10">
-        <p className="mb-2">Project ID: kavya-space-project</p>
-        <p>© 2024 Galactic Remote Sensing Lab.</p>
+        <p className="mb-2">© 2024 Galactic Remote Sensing Lab.</p>
+        <p>Made with ❤️ - Kavya</p>
       </footer>
     </div>
   );
