@@ -1,0 +1,7 @@
+{
+  "name": "Satellite Air Quality Scanner",
+  "description": "A dashboard to analyze Nitrogen Dioxide (NO2) levels using simulated Sentinel-5P satellite data and Gemini AI for health diagnosis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
